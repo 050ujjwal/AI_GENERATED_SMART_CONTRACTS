@@ -13,7 +13,7 @@ type Message = {
 const CHAT_USER = "Ujjwal";
 const DEFAULT_BEHAVIOR = "General Conversation";
 const CONFIGURATION = new Configuration({
-    apiKey: "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"
+    apiKey: "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"
 })
 const OPENAI_CLIENT = new OpenAIApi(CONFIGURATION);
 
